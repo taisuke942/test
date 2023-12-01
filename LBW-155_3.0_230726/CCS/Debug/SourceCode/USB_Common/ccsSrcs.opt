@@ -1,0 +1,1 @@
+"../SourceCode/USB_Common/UsbIsr.c" "../SourceCode/USB_Common/descriptors.c" "../SourceCode/USB_Common/dma.c" "../SourceCode/USB_Common/usb.c" "../SourceCode/USB_Common/usb_eventHandling.c" 

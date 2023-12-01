@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;MSP430_BMS_PL536&apos;" deleteContents="false" description="Delete resource &apos;MSP430_BMS_PL536&apos;" element1="/MSP430_BMS_PL536" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1536136893585"/>
+</session>

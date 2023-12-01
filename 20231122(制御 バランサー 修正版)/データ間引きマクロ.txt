@@ -1,0 +1,13 @@
+Sub sakujo()
+    
+    Dim i, ii, gA, gB, gC As Long
+
+   gA = Sheets("WAVE0001").Range("B65536").End(xlUp).Row
+
+'処理実行
+
+    For i = ga-1 To 3 step -2
+	Rows(i).Delete
+    Next i
+
+End Sub
